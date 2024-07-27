@@ -16,13 +16,11 @@ Welcome to our Weather Forecasting App repository! This project provides a simpl
 - **`script.js`:** JavaScript file containing the logic and functionality of the weather forecasting app.
 - **`Other Files`:** Additional GIFs used to represent different weather conditions, Favicon also.
 
-## Mobile View
+## weather application View
+![weather-1](https://github.com/user-attachments/assets/9e941287-5e13-4cd3-9fb1-840159b1fbff)
 
-![Screenrecording](https://github.com/Suvadip-sana/weather_app/assets/78638404/e999ffd8-f064-4842-b119-8e2bfcb5171d) 
+![weather-2](https://github.com/user-attachments/assets/7f444019-a0ec-465a-ad1b-e04d4b0608f4)
 
-## Desktop View
-
-![Screenshot](https://github.com/Suvadip-sana/weather_app/assets/78638404/d1043254-ee19-4b64-ad10-367d0a2b6cc7)
 
 ## Usage
 
